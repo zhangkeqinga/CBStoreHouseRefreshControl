@@ -18,6 +18,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    UIView *view =[[UIView alloc]initWithFrame:CGRectMake(0,0,40,40)];
+    NSLog(@"%f %f  %f",view.layer.position.x,view.layer.anchorPoint.x,view.layer.frame.origin.x);
+    
+    
     self.title = @"Storehouse";
     self.navigationController.navigationBar.barStyle = UIBarStyleBlack;
     self.navigationController.navigationBar.barTintColor = [UIColor colorWithWhite:0.1 alpha:1];

@@ -10,14 +10,14 @@
 	<string>CBStoreHouseRefreshControl</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>428AD6FE84D450D73793A668529C5EA842139F88</key>
+		<key>48D9A1FCEEA597C38D8A90273210A9941E51DCE1</key>
 		<string>https://github.com/StarClutch/CBStoreHouseRefreshControl.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CBStoreHouseRefreshControl.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>428AD6FE84D450D73793A668529C5EA842139F88</key>
+		<key>48D9A1FCEEA597C38D8A90273210A9941E51DCE1</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>428AD6FE84D450D73793A668529C5EA842139F88</string>
+	<string>48D9A1FCEEA597C38D8A90273210A9941E51DCE1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>428AD6FE84D450D73793A668529C5EA842139F88</string>
+			<string>48D9A1FCEEA597C38D8A90273210A9941E51DCE1</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CBStoreHouseRefreshControl</string>
 		</dict>
